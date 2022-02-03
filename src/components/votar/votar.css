@@ -1,0 +1,48 @@
+.containerView {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.headerView {
+    margin-top: 20px;
+}
+
+.headerView h1 {
+    color: #1B3C44;
+    margin: 0;
+    font-size: 24px;
+}
+
+.headerView span {
+    text-decoration: underline !important;
+    color: #000;
+}
+
+.infoView {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #494949;
+    line-height: 1.5;
+}
+
+.space-bet {
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.wrapper {
+    border: none;
+    border-radius: 0;
+    margin-top: 20px;
+}
+
+.containerBar {
+    background-color: #CCCCCC;
+}
+
+.opinionGroup,
+.opinionGroup p {
+    margin-bottom: 30px;
+}

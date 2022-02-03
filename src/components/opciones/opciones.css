@@ -1,0 +1,115 @@
+.Avatar {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-image: url("../../pictures/profile.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.UserAvatar {
+    margin-top: 20px;
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+}
+
+.UserAvatar>div {
+    width: 100%;
+}
+
+.containerBtn2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../pictures/boton2.svg");
+    background-size: 100% 45px;
+    background-repeat: no-repeat;
+    height: 45px;
+    margin: 10px auto;
+}
+
+.editAvatar {
+    width: 180px;
+}
+
+.editAvatar h1 {
+    font-size: 20px;
+    color: #000;
+}
+
+.deleteChange a {
+    padding-right: 20px;
+}
+
+.PersonalInfo {
+    margin-top: 20px;
+}
+
+.field,
+.fieldheader {
+    width: 100%;
+}
+
+.field {
+    border: 1px grey solid;
+    margin-top: 10px;
+    padding: 10px 0;
+}
+
+.fieldheader {
+    display: inline-flex;
+    margin-bottom: 5px;
+}
+
+.fieldheader p {
+    width: 250PX;
+}
+
+.fieldheader a {
+    padding-right: 10px;
+}
+
+.field h4,
+.field p {
+    margin: 0;
+    font-size: 14px;
+    padding: 3px 15px;
+}
+
+.socialC {
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
+}
+
+.config,
+.socialC {
+    display: inline-flex;
+    height: 70px;
+    border: 1px grey solid;
+    width: 100%;
+}
+
+.config {
+    align-items: center;
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.config div {
+    display: inline-flex;
+    align-items: center;
+    padding: 0 15px;
+}
+
+.config h4 {
+    padding-left: 10px;
+    line-height: 1.5;
+    width: 90%;
+    font-weight: 400;
+}
+
+.opConfig {
+    margin-bottom: 30px;
+}

@@ -1,0 +1,15 @@
+.gridPanal {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.gridPanal .row {
+    width: 33.33%;
+}
+
+.gridPanal .row h4,
+.gridPanal .row p {
+    margin: 0;
+}

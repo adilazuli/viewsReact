@@ -1,0 +1,31 @@
+.otherIdea {
+    margin: 30px auto;
+}
+
+p,
+li,
+h1,
+a {
+    color: #494949;
+    line-height: 1.5;
+    font-size: 14px;
+}
+
+.otherIdea h1 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.inputIdea {
+    margin: 30px auto;
+    height: 100px;
+    border: 1px gray solid
+}
+
+.btnPolis {
+    width: 160px;
+    height: 40px;
+    background-color: #ababab;
+    border: none;
+    color: #fff;
+}
